@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Team W3 Engineers</string>
+    <string name="title_home">We All</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_dev">About Us</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_Register">Join Us</string>
+
+    <string name="title_activity_welcome">Team W3 Engineers</string>
+
+    <string name="app_icon_transition">app_icon_transition</string>
+    <string name="app_title_transition">app_title_transition</string>
+    <string name="loading_icon_transition">loading_icon_transition</string>
+    <string name="add_developer">Join Now</string>
+    <string name="select_image">Capture Your Image</string>
+    <string name="fullName">Your Name</string>
+    <string name="postion_prompt">Your Position</string>
+    <string name="joining_date_prompt">Your Joining Date</string>
+    <string name="development_filed">Your Development Field</string>
+    <string name="about_me">About Yourself (max 120 words)</string>
+    <string name="email">Your Email Address</string>
+
+    <string-array name="positions_arrays">
+        <item>Select Position</item>
+        <item>Intern Engineer</item>
+        <item>Junior Developer</item>
+        <item>Senior Developer</item>
+        <item>Team Leader</item>
+    </string-array>
+</resources>
